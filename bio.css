@@ -1,0 +1,47 @@
+body{
+  background-color: #2E8B57;
+}
+  
+
+
+.header{
+  font-family: 'Cedarville Cursive', cursive;
+  color: #FFD700;
+  
+
+}
+hr{
+  position: relative;
+        top: 10px;
+        border: none;
+        height: 8px;
+        background:white;
+        margin-bottom: 20px;
+}
+.SSCE{
+  text-align:center;
+  color: azure;
+  font-size:20vw;
+}
+.BIO{
+  color:black;
+  text-align: center;
+  margin-top: 40px;
+  border-style: solid;
+  border-radius: 30px;
+  border-color: #FFD700;
+  background-color: aliceblue;
+  font-size: 5vw;
+  padding: 20px;
+  border: width 30px;
+  background-size: 2px;
+  padding-bottom: 10px;
+  min-width: 30px;
+}
+ul{
+  color: #FFD700;
+}
+footer{
+  color: aliceblue;
+  text-align: center;
+}
